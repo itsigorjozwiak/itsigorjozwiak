@@ -54,3 +54,22 @@ I enjoy exploring mathematical and physical problems. Thanks to programming, var
 </a>
 
 </div>
+
+### Operating Systems
+
+<div align="left">
+
+<a href="https://ubuntu.com/">
+  <img height="60" src="https://github.com/user-attachments/assets/7d8386ac-6d70-4bd0-b744-ab2e4d7d0c59">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Linux">
+  <img height="60" src="https://github.com/user-attachments/assets/ac2121ed-c310-4631-8667-e2c0bc42a363">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.microsoft.com/en-us/windows">
+  <img height="60" src="https://github.com/user-attachments/assets/4966e0a2-b558-444a-b8f9-e860931f3d83">
+</a>
+
+</div>
+
