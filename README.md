@@ -11,6 +11,8 @@ I am a student of Applied Computer Science at the Jagiellonian University.🎓
 
 I am passionate about issues related to artificial intelligence, especially machine learning, deep learning and the use of AI in everyday solutions. I am eager to learn new tools and experiment with AI models.֎🇦🇮  
 
+In my spare time, I enjoy analysing problems related to computer networks. It fascinates me that understanding them is key to ensuring the security of IT systems🌐
+
 I enjoy exploring mathematical and physical problems. Thanks to programming, various algorithms and numerical methods, I analyse different solutions to better understand how a problem works and how it can be solved efficiently.📈
 ## Soft Skills 🧠
 - **Analytical Thinking**: effective analysis of complex problems and searching for and optimalising solutions
@@ -54,8 +56,12 @@ I enjoy exploring mathematical and physical problems. Thanks to programming, var
 </a>
 
 <a href="https://www.scala-lang.org/">
-  <img width="60" src="https://github.com/user-attachments/assets/bb09e04c-fb63-4aac-b19f-a01de8f1c9b2">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/bb09e04c-fb63-4aac-b19f-a01de8f1c9b2">
+</a>
+
+<a href="https://en.wikipedia.org/wiki/SQL">
+  <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/d3c042f7-3838-4146-ab92-53fbf7966bdd">
+</a>
 
 </div>
 
