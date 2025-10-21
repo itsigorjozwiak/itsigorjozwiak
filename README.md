@@ -53,15 +53,15 @@ I enjoy exploring mathematical and physical problems. Thanks to programming, var
   <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/b306f7cf-d436-41e0-8850-4bd3b1e860d8">
 </a>
 
+<a href="https://www.scala-lang.org/">
+  <img width="60" src="https://github.com/user-attachments/assets/bb09e04c-fb63-4aac-b19f-a01de8f1c9b2">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 ### Operating Systems
 
 <div align="left">
-
-<a href="https://ubuntu.com/">
-  <img height="60" src="https://github.com/user-attachments/assets/7d8386ac-6d70-4bd0-b744-ab2e4d7d0c59">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://en.wikipedia.org/wiki/Linux">
   <img height="60" src="https://github.com/user-attachments/assets/ac2121ed-c310-4631-8667-e2c0bc42a363">
