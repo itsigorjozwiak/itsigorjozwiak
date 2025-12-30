@@ -47,6 +47,14 @@ I enjoy exploring mathematical and physical problems. Thanks to programming, var
 
 </div>
 
+<div align="left">
+  
+<a href="https://www.scala-lang.org/">
+  <img height="60" src="https://github.com/user-attachments/assets/bb09e04c-fb63-4aac-b19f-a01de8f1c9b2">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
 ### Currently Learning
 
 <div align="left">
@@ -55,12 +63,16 @@ I enjoy exploring mathematical and physical problems. Thanks to programming, var
   <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/b306f7cf-d436-41e0-8850-4bd3b1e860d8">
 </a>
 
-<a href="https://www.scala-lang.org/">
-  <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/bb09e04c-fb63-4aac-b19f-a01de8f1c9b2">
+<a href="https://www.haskell.org/">
+  <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/6f59ccb4-b9e0-4fa4-b802-3e2802ac074d">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL">
   <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/d3c042f7-3838-4146-ab92-53fbf7966bdd">
+</a>
+
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+  <img height="60" style="margin-right: 30 px;" src="https://github.com/user-attachments/assets/6eaa756e-7a35-4ebd-8e5b-bd386138dbef">
 </a>
 
 </div>
